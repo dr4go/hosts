@@ -1,7 +1,7 @@
 
 
 ## Begin adBlock hosts file ##
-# Last updated: Apr 06, 2021 15:41:09 CEST
+# Last updated: Apr 07, 2021 03:07:51 CEST
 
 # Custom entries (4):
 0.0.0.0 ip6-localhost
@@ -11,15 +11,37 @@
 
 # Blacklisted domains (0):
 
-# Whitelisted domains (6):
-# ads.youtube.com
+# Whitelisted domains (28):
+# 4.afs.googleadservices.com
+# clickserve.dartsearch.net
+# clickserve.eu.dartsearch.net
+# clickserve.uk.dartsearch.net
+# clickserve.us2.dartsearch.net
+# feedads.googleadservices.com
+# googleadservices.com
 # log.tapatalk.com
+# m4.afs.googleadservices.com
+# mimageads.googleadservices.com
+# mimageads1.googleadservices.com
+# mimageads2.googleadservices.com
+# mimageads3.googleadservices.com
+# mimageads4.googleadservices.com
+# mimageads5.googleadservices.com
+# mimageads6.googleadservices.com
+# mimageads7.googleadservices.com
+# mimageads8.googleadservices.com
+# mimageads9.googleadservices.com
+# mpartner.googleadservices.com
+# pagead2.googleadservices.com
+# partner.googleadservices.com
 # rarbg.com
 # s.youtube.com
 # static.rarbg.com
+# www.googleadservices.com
+# www.partner.googleadservices.com
 # www.rarbg.com
 
-# Blocked domains (106460):
+# Blocked domains (106438):
 0.0.0.0 0.0.0.0.beeglivesex.com
 0.0.0.0 0.0.0.0.creative.hpyrdr.com
 0.0.0.0 0.0.0.0.hpyrdr.com
@@ -1293,7 +1315,6 @@
 0.0.0.0 4.6solo.biz
 0.0.0.0 4.7mono.biz
 0.0.0.0 4.adbrite.com
-0.0.0.0 4.afs.googleadservices.com
 0.0.0.0 4.androidislamic.com
 0.0.0.0 4.collecorvino.org
 0.0.0.0 4.dlevo.com
@@ -6365,6 +6386,7 @@
 0.0.0.0 ads.ynot.com
 0.0.0.0 ads.youporn.com
 0.0.0.0 ads.yourfreedvds.com
+0.0.0.0 ads.youtube.com
 0.0.0.0 ads.yumenetworks.com
 0.0.0.0 ads.zalo.me
 0.0.0.0 ads.zaloapp.com
@@ -19160,10 +19182,6 @@
 0.0.0.0 clicksagent.com
 0.0.0.0 clickserv.sitescout.com
 0.0.0.0 clickserve.cc-dt.com
-0.0.0.0 clickserve.dartsearch.net
-0.0.0.0 clickserve.eu.dartsearch.net
-0.0.0.0 clickserve.uk.dartsearch.net
-0.0.0.0 clickserve.us2.dartsearch.net
 0.0.0.0 clicksor.com
 0.0.0.0 clicksotrk.com
 0.0.0.0 clickspring.net
@@ -27955,7 +27973,6 @@
 0.0.0.0 feed.validclick.com
 0.0.0.0 feeda.info
 0.0.0.0 feedads.g.doubleclick.net
-0.0.0.0 feedads.googleadservices.com
 0.0.0.0 feedback.adrecover.com
 0.0.0.0 feedback.drtuber.com
 0.0.0.0 feedback.microsoft-hohm.com
@@ -32584,7 +32601,6 @@
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads2.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
-0.0.0.0 googleadservices.com
 0.0.0.0 googleailesi.com
 0.0.0.0 googleanalytics.com
 0.0.0.0 googlecm.hit.gemius.pl
@@ -43165,7 +43181,6 @@
 0.0.0.0 m3.za.2mdn.net
 0.0.0.0 m32.media
 0.0.0.0 m4.ae.2mdn.net
-0.0.0.0 m4.afs.googleadservices.com
 0.0.0.0 m4.au.2mdn.net
 0.0.0.0 m4.be.2mdn.net
 0.0.0.0 m4.br.2mdn.net
@@ -46494,16 +46509,6 @@
 0.0.0.0 milovana.com
 0.0.0.0 milta1980.co.uk
 0.0.0.0 milyondolar.com
-0.0.0.0 mimageads.googleadservices.com
-0.0.0.0 mimageads1.googleadservices.com
-0.0.0.0 mimageads2.googleadservices.com
-0.0.0.0 mimageads3.googleadservices.com
-0.0.0.0 mimageads4.googleadservices.com
-0.0.0.0 mimageads5.googleadservices.com
-0.0.0.0 mimageads6.googleadservices.com
-0.0.0.0 mimageads7.googleadservices.com
-0.0.0.0 mimageads8.googleadservices.com
-0.0.0.0 mimageads9.googleadservices.com
 0.0.0.0 mimakiusa.actonservice.com
 0.0.0.0 mimi.al
 0.0.0.0 mimicrice.com
@@ -47486,7 +47491,6 @@
 0.0.0.0 mparticle.map.fastly.net
 0.0.0.0 mparticle.slack.com
 0.0.0.0 mparticle.uc.cn
-0.0.0.0 mpartner.googleadservices.com
 0.0.0.0 mpestudios.pt
 0.0.0.0 mpg.taboola.com
 0.0.0.0 mpi.gov.tr
@@ -54035,7 +54039,6 @@
 0.0.0.0 pagead.l.google.com
 0.0.0.0 pagead.topobiavi.com
 0.0.0.0 pagead1.googlesyndication.com
-0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pagead3.googlesyndication.com
 0.0.0.0 pagead46.l.doubleclick.net
@@ -54339,7 +54342,6 @@
 0.0.0.0 partner.become.co.jp
 0.0.0.0 partner.ceneo.pl
 0.0.0.0 partner.csr11.net.daraz.com
-0.0.0.0 partner.googleadservices.com
 0.0.0.0 partner.join.com.ua
 0.0.0.0 partner.knorex.com
 0.0.0.0 partner.magna.ru
@@ -87662,7 +87664,6 @@
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.google-docs.info
 0.0.0.0 www.google-docs.org
-0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googleailesi.com
 0.0.0.0 www.googleoptimize.com
 0.0.0.0 www.googletagmanager.com
@@ -94965,7 +94966,6 @@
 0.0.0.0 www.partie-privee.com
 0.0.0.0 www.partizanlab.com
 0.0.0.0 www.partner-ads.com
-0.0.0.0 www.partner.googleadservices.com
 0.0.0.0 www.partneralior.pl
 0.0.0.0 www.partnergroupe.com
 0.0.0.0 www.partsurmissdick.gq
